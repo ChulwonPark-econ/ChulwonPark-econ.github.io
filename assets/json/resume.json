@@ -61,6 +61,15 @@
       "location": "Seoul, Korea",
       "url": "https://www.sogang.ac.kr/",
       "area": "Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2025-03",
+      "endDate": "Present"
+    },
+    {
+      "institution": "Sogang University",
+      "location": "Seoul, Korea",
+      "url": "https://www.sogang.ac.kr/",
+      "area": "Economics",
       "studyType": "M.A.",
       "startDate": "2023-03",
       "endDate": "2025-02"
@@ -78,7 +87,7 @@
   "awards": [
     {
       "title": "BK21 Four Fellowship",
-      "date": "2025-03 – present",
+      "date": "2025-03 – Present",
       "awarder": "National Research Foundation of Korea (NRF)",
       "summary": "Awarded to selected graduate students for research excellence under the Ministry of Education's national funding program."
     },
@@ -99,6 +108,20 @@
       "publisher": "Journal of APEC Studies",
       "releaseDate": "2024-12",
       "summary": "Co-authored with Jaeho Kim. Published in Vol. 16 No. 2, pp. 57-74."
+    }
+  ],
+  "presentations": [
+    {
+      "name": "18th WEAI International Conference",
+      "publisher": "Chulalongkorn University, Bangkok",
+      "releaseDate": "2026-04",
+      "summary": "Accepted for presentation at the 18th WEAI International Conference."
+    },
+    {
+      "name": "2026 Africa Meeting of the Econometric Society",
+      "publisher": "AUC, Cairo",
+      "releaseDate": "2026-06",
+      "summary": "Accepted for presentation at the Econometric Society meeting."
     }
   ],
   "skills": [
@@ -151,17 +174,17 @@
     {
       "name": "Firm-level Investment Responses in an Open Economy",
       "summary": "Investigating whether domestic monetary policy matters for investment in open economies.",
-      "startDate": "2023-09"
+      "startDate": "2023"
     },
     {
       "name": "Rebalancing Housing Taxes for an Aging Economy",
       "summary": "Analyzing the impact of housing tax adjustments in the context of an aging population.",
-      "startDate": "2025-03"
+      "startDate": "2025"
     },
     {
-      "name": "From Drought to Dinner",
-      "summary": "Research on climate shocks and food import inflation using satellite indices.",
-      "startDate": "2025-04"
+      "name": "Global Financial Cycles: Sectoral Transmission and Policy Responses",
+      "summary": "Examines how global financial shocks influence output and sectoral capital flows across emerging and advanced economies within an open economy framework.",
+      "startDate": "2025"
     }
   ]
 }
