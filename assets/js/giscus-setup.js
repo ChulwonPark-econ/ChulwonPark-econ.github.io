@@ -9,7 +9,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "inuuniw-econ/inuuniw-econ.github.io",
+    "data-repo": "ChulwonPark-econ/ChulwonPark-econ.github.io",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
