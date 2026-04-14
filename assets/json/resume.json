@@ -3,7 +3,7 @@
     "name": "Chulwon Park",
     "label": "Incoming Ph.D. Student at Indiana University Bloomington",
     "image": "image1.jpeg",
-    "email": "inuuniw@u.sogang.ac.kr",
+    "email": "inuuniw@icloud.com",
     "url": "https://chulwonpark-econ.github.io",
     "summary": "Incoming Ph.D. student in Economics at Indiana University Bloomington (starting Fall 2026). My research interests include Macroeconomics, International Finance, and Econometrics, with a focus on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
     "location": {
@@ -15,7 +15,7 @@
       {
         "network": "Email",
         "username": "Chulwon Park",
-        "url": "mailto:inuuniw@u.sogang.ac.kr"
+        "url": "mailto:inuuniw@icloud.com"
       }
     ]
   },
@@ -64,15 +64,6 @@
       "studyType": "Ph.D.",
       "startDate": "2026-08",
       "endDate": "Present"
-    },
-    {
-      "institution": "Sogang University",
-      "location": "Seoul, Korea",
-      "url": "https://www.sogang.ac.kr/",
-      "area": "Economics",
-      "studyType": "Ph.D.",
-      "startDate": "2025-03",
-      "endDate": "2026-06"
     },
     {
       "institution": "Sogang University",
