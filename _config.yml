@@ -8,6 +8,7 @@ middle_name: >
 last_name: Park
 contact_note: >
   The best way to reach me is via email at inuuniw@icloud.com
+cv_pdf: CV.pdf
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ph.D. Student in Economics. My research focuses on uncovering microeconomic channels of monetary and fiscal policy transmission, international finance, and utilizing satellite data for economic analysis.
 footer_text: >
@@ -17,7 +18,7 @@ keywords: economics, macroeconomics, monetary-policy, international-finance, eco
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 📈 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://inuuniw-econ.github.io # the base hostname & protocol for your site
+url: https://chulwonpark-econ.github.io # the base hostname & protocol for your site
 baseurl: 
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
