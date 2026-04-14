@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in Economics at Sogang University
+subtitle: Ph.D. Student in Economics
 
 profile:
   align: right
