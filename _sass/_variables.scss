@@ -66,4 +66,31 @@ $global-link-color: #0076df;
 // 추가로 강조색들도 파란색 계열로 맞춰줍니다.
 $red-color: #0076df;
 
+/*******************************************************************************
+ * Chulwon's Burgundy Theme (IUB Crimson Style)
+ ******************************************************************************/
 
+$max-width: 1500px;
+
+// 인디애나 대학교 공식 Crimson 색상 및 보조 버건디 설정
+$iu-crimson: #990000;
+$burgundy-dark: #7D0000;
+$burgundy-light: #A52A2A;
+
+// 메인 테마 색상 강제 적용
+$global-theme-color: $iu-crimson; 
+$global-header-color: $burgundy-dark;
+$global-footer-color: $burgundy-dark;
+$global-link-color: $iu-crimson;
+
+// 테마 내에서 $red-color를 사용하는 배지나 강조 요소들을 버건디로 통일
+$red-color: $iu-crimson;
+$red-color-dark: $burgundy-dark;
+
+// 파란색 계열로 설정되었던 기존 포인트 컬러들도 버건디 톤으로 전환
+$blue-color: $iu-crimson;
+$blue-color-dark: $burgundy-dark;
+$cyan-color: $burgundy-light;
+
+// 코드 배경 및 기타 요소의 미세한 색감 조정
+$code-bg-color-light: rgba($iu-crimson, 0.03);
