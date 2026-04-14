@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Chulwon Park",
-    "label": "Ph.D. Student in Economics",
+    "label": "Incoming Ph.D. Student at Indiana University Bloomington",
     "image": "image1.jpeg",
     "email": "inuuniw@u.sogang.ac.kr",
-    "url": "https://inuuniw-econ.github.io",
-    "summary": "Ph.D. student in Economics at Sogang University specializing in Macroeconomics, International Finance, and Econometrics. My research focuses on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
+    "url": "https://chulwonpark-econ.github.io",
+    "summary": "Incoming Ph.D. student in Economics at Indiana University Bloomington (starting Fall 2026). My research interests include Macroeconomics, International Finance, and Econometrics, with a focus on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
     "location": {
       "city": "Seoul",
       "countryCode": "KR",
@@ -57,13 +57,22 @@
   ],
   "education": [
     {
+      "institution": "Indiana University Bloomington",
+      "location": "Bloomington, IN",
+      "url": "https://economics.indiana.edu/",
+      "area": "Economics",
+      "studyType": "Ph.D.",
+      "startDate": "2026-08",
+      "endDate": "Present"
+    },
+    {
       "institution": "Sogang University",
       "location": "Seoul, Korea",
       "url": "https://www.sogang.ac.kr/",
       "area": "Economics",
       "studyType": "Ph.D.",
       "startDate": "2025-03",
-      "endDate": "Present"
+      "endDate": "2026-06"
     },
     {
       "institution": "Sogang University",
@@ -87,7 +96,7 @@
   "awards": [
     {
       "title": "BK21 Four Fellowship",
-      "date": "2025-03 – Present",
+      "date": "2025-03 – 2026-06",
       "awarder": "National Research Foundation of Korea (NRF)",
       "summary": "Awarded to selected graduate students for research excellence under the Ministry of Education's national funding program."
     },

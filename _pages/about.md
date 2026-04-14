@@ -25,8 +25,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. student in Economics at **Sogang University**. 
-My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
+I am an **Incoming Ph.D. student in Economics at Indiana University Bloomington** (starting Fall 2026). 
+Currently, I am a Ph.D. student at **Sogang University**. My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission, global financial cycles.
 
 <!-- <br>
 
