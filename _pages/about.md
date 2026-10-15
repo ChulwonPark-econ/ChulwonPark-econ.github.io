@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a **Ph.D. student in Economics at Indiana University Bloomington**.
+I am a **first-year Ph.D. student in Economics at Indiana University Bloomington**.
 My research interests are centered on **Macroeconomics**, **International Finance**, and **Econometrics**, with a focus on monetary and fiscal policy transmission and global financial cycles.
 
 <!-- <br>
