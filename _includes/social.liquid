@@ -11,7 +11,11 @@
     {% when 'bluesky_url' %}
       <a href="{{ social[1] }}" title="Bluesky"><i class="fa-brands fa-bluesky"></i></a>
     {% when 'cv_pdf' %}
-      <a href="{{ social[1] | relative_url }}" title="CV" target="_blank"><i class="ai ai-cv"></i></a>
+      {% if social[1] contains '://' %}
+        <a href="{{ social[1] }}" title="CV" target="_blank" rel="noopener noreferrer"><i class="ai ai-cv"></i></a>
+      {% else %}
+        <a href="{{ social[1] | relative_url }}" title="CV" target="_blank"><i class="ai ai-cv"></i></a>
+      {% endif %}
     {% when 'dblp_url' %}
       <a href="{{ social[1] }}" title="DBLP"><i class="ai ai-dblp"></i></a>
     {% when 'discord_id' %}
