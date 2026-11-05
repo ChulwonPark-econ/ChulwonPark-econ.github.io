@@ -5,7 +5,7 @@
     "image": "image1.jpeg",
     "email": "chulpark@iu.edu",
     "url": "https://chulwonpark-econ.github.io",
-    "summary": "Ph.D. student in Economics at Indiana University Bloomington. My research interests include Macroeconomics, International Finance, and Econometrics, with a focus on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
+    "summary": "Ph.D. student in Economics at Indiana University Bloomington. My research interests include Macroeconomics, International Finance, and Econometrics, with a focus on monetary and fiscal policy transmission and global financial cycles.",
     "location": {
       "city": "Seoul",
       "countryCode": "KR",
@@ -20,13 +20,6 @@
     ]
   },
   "work": [
-    {
-      "name": "Indiana University Bloomington",
-      "position": "Teaching Assistant",
-      "url": "https://economics.indiana.edu/",
-      "startDate": "2026",
-      "summary": "ECON-B 252: Fundamentals of Economics for Business II (Fall 2026)."
-    },
     {
       "name": "Korea Institute of Public Finance (KIPF)",
       "position": "Research Assistant",
