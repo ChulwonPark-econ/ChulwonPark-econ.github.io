@@ -3,7 +3,7 @@
     "name": "Chulwon Park",
     "label": "Ph.D. Student at Indiana University Bloomington",
     "image": "image1.jpeg",
-    "email": "inuuniw@icloud.com",
+    "email": "chulpark@iu.edu",
     "url": "https://chulwonpark-econ.github.io",
     "summary": "Ph.D. student in Economics at Indiana University Bloomington. My research interests include Macroeconomics, International Finance, and Econometrics, with a focus on monetary and fiscal policy transmission, global financial cycles, and the economic impact of climate shocks using satellite data.",
     "location": {
@@ -15,11 +15,18 @@
       {
         "network": "Email",
         "username": "Chulwon Park",
-        "url": "mailto:inuuniw@icloud.com"
+        "url": "mailto:chulpark@iu.edu"
       }
     ]
   },
   "work": [
+    {
+      "name": "Indiana University Bloomington",
+      "position": "Teaching Assistant",
+      "url": "https://economics.indiana.edu/",
+      "startDate": "2026",
+      "summary": "ECON-B 252: Fundamentals of Economics for Business II (Fall 2026)."
+    },
     {
       "name": "Korea Institute of Public Finance (KIPF)",
       "position": "Research Assistant",
@@ -128,7 +135,7 @@
       "name": "2026 Korean Economic Review (KER) International Conference",
       "publisher": "Halla Convention Center, Jeju, South Korea",
       "releaseDate": "2026-06",
-      "summary": "Accepted for presentation at the 2026 Korean Economic Review (KER) International Conference."
+      "summary": "Presented at the 2026 Korean Economic Review (KER) International Conference."
     }
   ],
   "skills": [
